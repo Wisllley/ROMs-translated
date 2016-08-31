@@ -108,7 +108,7 @@
     <string name="disable_fc_notifications_title">Desativar notificações de FC</string>
     <string name="disable_fc_notifications_summary">Isto irá esconder todas as notificações com FC</string>
 
-    <!-- Color Picker -->
+    <!--Cor do apanhador -->
     <string name="dialog_color_picker">Seletor de cores</string>
     <string name="press_color_to_apply">Pressionar na cor abaixo para aplicar</string>
     <string name="arrow_right" translatable="false">→</string>
@@ -118,7 +118,7 @@
     <string name="set">Aplicar</string>
     <string name="color_default">Padrão</string>
 
-    <!-- Network traffic -->
+    <!-- Tráfego de rede -->
     <string name="traffic_category">Indicador de tráfego</string>
     <string name="traffic_title">Tráfego</string>
     <string name="network_traffic_title">Tráfego de rede</string>
