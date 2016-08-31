@@ -913,20 +913,20 @@
     <string name="qs_dash_width_title">QS stroke dash width</string>
     <string name="qs_dash_gap_title">QS stroke dash gap</string>
 
-    <!-- MediaScanner behavior on boot -->
-    <string name="media_scanner_on_boot_title">MediaScanner behavior on boot</string>
-    <string name="media_scanner_on_boot_enabled">Scan media</string>
-    <string name="media_scanner_on_boot_ask">Ask to scan (notification)</string>
-    <string name="media_scanner_on_boot_disabled">Do not scan media</string>
+    <!-- Comportamento do escaneamento de mídia na inicialização -->
+    <string name="media_scanner_on_boot_title">Comportamento do escaneamento de mídia na inicialização</string>
+    <string name="media_scanner_on_boot_enabled">Escaneamento de mídia</string>
+    <string name="media_scanner_on_boot_ask">Pedir para escanear mídia</string>
+    <string name="media_scanner_on_boot_disabled">Não escanear mídia</string>
 
-    <!-- QS stroke settings -->
-    <string name="qs_panel_logo_category">QS panel logo</string>
-    <string name="qs_panel_logo_title">QS panel AICP logo</string>
-    <string name="qs_panel_logo_disabled">Disabled</string>
-    <string name="qs_panel_logo_accent">Accent color</string>
-    <string name="qs_panel_logo_custom">Custom color</string>
-    <string name="qs_panel_logo_color_title">QS panel logo color</string>
-    <string name="qs_panel_logo_alpha_title">QS panel logo transparency</string>
+    <!-- Configurações sistólicas da DR -->
+    <string name="qs_panel_logo_category">logotipo do painel </string>
+    <string name="qs_panel_logo_title">Logotipo da AICP DR</string>
+    <string name="qs_panel_logo_disabled">Desativado</string>
+    <string name="qs_panel_logo_accent">Cor de destaque</string>
+    <string name="qs_panel_logo_custom">Cor personalizadar</string>
+    <string name="qs_panel_logo_color_title">Cor do logotipo do painel DR </string>
+    <string name="qs_panel_logo_alpha_title">Transparencia do logotipo do painel DR</string>
 
     <!-- Tamanho do relógio e data na tela de bloqueio -->
     <string name="lockscreen_clock_font_size_title">Tamanho da fonte do relógio na tela de bloqueio</string>
