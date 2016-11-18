@@ -12,8 +12,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- TeslaCoil -->
-    <string name="teslacoil_title">TeslaCoil</string>
+    <!-- Bobina Tesla -->
+    <string name="teslacoil_title">Bobina Tesla</string>
     <string name="header_category_teslacoil">Opções extras</string>
     <string name="teslacoil_summary">Opções personalizadas Tesla</string>
 
@@ -21,7 +21,7 @@
     <string name="ok">Certo</string>
     <string name="reset">Redefinir</string>
     <string name="default_string">Padrão</string>
-    <string name="add">Adiconar</string>
+    <string name="add">Adicionar</string>
     <string name="enabled">Habilitar</string>
     <string name="choose_app">Escolher o aplicatvo</string>
     <string name="help">Ajuda</string>
@@ -36,14 +36,14 @@
     <string name="tesla_version_title">Versão Tesla</string>
     <string name="tesla_version_default">Desconhecida</string>
     <!-- Sobre a tela do telefone, data de construção da ROM -->
-    <string name="build_date">Dta de construção</string>
+    <string name="build_date">Data de construção</string>
     <string name="build_date_default">Desconhecida</string>
 
     <!-- Categoria de densidade -->
     <string name="density_category">Opções de densidade</string>
 
-    <!-- Ajustes de som do volume -->
-    <string name="volume_adjust_sounds_title">Ajustes de som do volume</string>
+    <!-- Ajustes do volume do som -->
+    <string name="volume_adjust_sounds_title">Ajustes do volume do som</string>
 
     <!-- Categoria de densidade -->
     <string name="density_category">Opções de densidade</string>
@@ -90,15 +90,15 @@
     <string name="dashboard_category">Opções do painel</string>
     <string name="dashboard_suggestions_title">Sugestões do painel</string>
     <string name="summary_dashboard_suggestions_enabled">Sugestões do painel foram habilitadas</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="summary_dashboard_suggestions_disabled">Sugestões do painel de controle estão desativadas</string>
     <string name="remove_tile_summaries_title">Remover resumos da telha</string>
     <string name="remove_tile_summaries_summary">Remover as telhas resumos que apresentam debaixo títulos telha</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_conditions_title">Condições do painel de controle</string>
+    <string name="summary_dashboard_conditions_enabled">As condições do painel de controle estão ativadas</string>
+    <string name="summary_dashboard_conditions_disabled">As condições do painel de controle estão desativadas</string>
 
-    <!-- Aumentando o volume de toque -->
-    <string name="increasing_ring_volume_option_title">Increasing ring volume</string>
+    <!-- Aumentar o volume de toque -->
+    <string name="increasing_ring_volume_option_title">Aumentar o volume do toque</string>
     <string name="increasing_ring_min_volume_title">Volume inicial</string>
     <string name="increasing_ring_ramp_up_time_title">Tempo de aceleração</string>
 
@@ -123,7 +123,7 @@
     <string name="shortcut_action_ring_vib_silent">Tocar/Vibrar/Silencioso</string>
     <string name="shortcut_action_camera">Camera</string>
     <string name="shortcut_action_media_next">Musica - faixa seguinte</string>
-    <string name="shortcut_action_media_play_pause">Musica - reproduzir/pausar</string>
+    <string name="shortcut_action_media_play_pause">Musica - reproduzir / pausar</string>
     <string name="shortcut_action_media_previous">Musica - faixa anterior</string>
     <string name="shortcut_action_wake_device">Acordar dispositivo</string>
     <string name="shortcut_action_kill">Matar aplicativo</string>
@@ -133,10 +133,10 @@
     <string name="shortcut_action_qs">Painel de configurações rápidas</string>
     <string name="shortcut_action_torch">Lanterna</string>
     <string name="shortcut_action_longpress">Pressionar logamente:</string>
-    <string name="shortcut_action_select_action_longpress">Escolha uma ação ao pressionar longamente:</string>
+    <string name="shortcut_action_select_action_longpress">Escolha uma ação ao pressionar longamente</string>
     <string name="shortcut_action_select_action">Escolher ação:</string>
     <string name="shortcut_action_select_action_newaction">Escolha uma nova ação:</string>
-    <string name="shortcut_action_reset">Reset</string>
+    <string name="shortcut_action_reset">Redefinir</string>
     <string name="shortcut_action_add">Adicionar</string>
     <string name="shortcut_action_reset_message">Repor todas as entradas para o padrão?</string>
     <string name="shortcut_action_max">Tamanho máximo de entradas foi atingido</string>
@@ -225,7 +225,6 @@
 
     <!-- Desbloqueio rápido -->
     <string name="unlock_quick_unlock_control_title">Desbloqueio rápido</string>
-    <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN / senha correta é digitada</string>
+    <string name="unlock_quick_unlock_control_summary">Desbloquear automaticamente quando o PIN / senha correta for digitada</string>
 
 </resources>
-
