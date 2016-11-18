@@ -24,7 +24,7 @@
     <string name="multitasking_category">Outros ajustes</string>
     <string name="weather_cat_lockscreen">Bloqueio de tela</string>
     <string name="nightmode_category">Modo noturno</string>
-    <string name="button_settings">Configurações do botão</string>
+    <string name="button_settings">Configuração dos botões</string>
     <string name="quicksettings_category">Configurações rápidas</string>
     <string name="traffic_category">Indicadores de tráfego</string>
     <string name="statusbar_notifications_category">Notificações</string>
@@ -44,7 +44,7 @@
     <string name="powermenu_power">Desligar</string>
     <string name="powermenu_reboot">Reiniciar</string>
     <string name="powermenu_airplane">Modo avião</string>
-    <string name="powermenu_settings">configurações</string>
+    <string name="powermenu_settings">Configurações</string>
     <string name="powermenu_lockdown">Bloquear agora</string>
     <string name="powermenu_soundpanel">Painel de som</string
 	
