@@ -56,7 +56,7 @@
     <string name="advanced_reboot_hide_on_keyguard">Esconder na tela de bloqueio</string>
     <string name="advanced_reboot_show_always">Mostrar sempre</string>
 	
-	<!-- Rotação da chave de volume -->
+	<!-- Rotação dos botões de volume -->
     <string name="swap_volume_buttons_title">Reorientar</string>
     <string name="swap_volume_buttons_summary">botões de volume serão ajustados quando a tela for girada</string>
 	
