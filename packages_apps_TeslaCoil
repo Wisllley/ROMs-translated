@@ -403,8 +403,8 @@
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
+    <string name="set">Definido</string>
+    <string name="color_default">Padrão</string>
 	
 	<!-- Tempo na barra de status -->
     <string name="status_bar_show_weather_title">Mostrar previsão do tempo</string>
